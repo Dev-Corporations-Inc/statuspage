@@ -1,2 +1,2 @@
 # statuspage
-The status page for Dev Corporations Ltd.
+The status page for Dev Corporations Inc.
